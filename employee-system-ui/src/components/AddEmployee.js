@@ -5,7 +5,7 @@ const AddEmployee = () => {
     <div className="flex max-w-2xl mx-auto shadow border-b">
         <div className="px-8 py-8">
             <div className="font-thin text-2xl tracking-wider">
-                <h1>Add New Employee</h1>
+                <h1>Add New Employeee</h1>
             </div>
             <div className="items-center justify-center h-14 w-full my-4">
             <label className="block text-gray-600 text-sm font-normal">
