@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EmployeeSystemApiApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Ahana");
 		SpringApplication.run(EmployeeSystemApiApplication.class, args);
 	}
 
